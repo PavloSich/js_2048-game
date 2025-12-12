@@ -6,8 +6,10 @@ The goal of the game is to combine tiles with the same values to reach the 2048 
 The project focuses on game logic, state management, keyboard controls, and DOM rendering without using external frameworks.
 
 ## Live Preview
+https://pavlosich.github.io/js_2048-game/
 
-(додай лінк, якщо є деплой, наприклад GitHub Pages)
+## Repository
+https://github.com/PavloSich/js_2048-game
 
 ## Technologies Used
 
